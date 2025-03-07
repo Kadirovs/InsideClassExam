@@ -1,0 +1,14 @@
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.AssemblyInfoInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.AssemblyInfo.cs
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.csproj.CoreCompileInputs.cache
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\bin\Debug\net9.0\Task8.exe
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\bin\Debug\net9.0\Task8.deps.json
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\bin\Debug\net9.0\Task8.runtimeconfig.json
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\bin\Debug\net9.0\Task8.dll
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\bin\Debug\net9.0\Task8.pdb
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.dll
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\refint\Task8.dll
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.pdb
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\Task8.genruntimeconfig.cache
+C:\Users\KaKa\OneDrive\Desktop\ExamQuestion\Task8\obj\Debug\net9.0\ref\Task8.dll
